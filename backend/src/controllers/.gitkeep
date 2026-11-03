@@ -1,0 +1,3 @@
+# Controllers — lógica dos endpoints da API
+# Cada controller corresponde a um recurso.
+# Exemplos: authController.js, rotasController.js...
